@@ -36,11 +36,11 @@ Nosso projeto consiste em uma API desenvolvida em Java utilizando o framework Sp
 
 ![Diagrama de Arquitetura Geral](./imagens/diagramaArquiteturaGeral.png)
 
-![Diagrama Relacional](./imagens/diagramaRelacional.png.png)
+![Diagrama Relacional](./imagens/diagramaRelacional.png)
 
-![Diagrama Logico](./imagens/diagramaLogico.png.png)
+![Diagrama Logico](./imagens/diagramaLogico.png)
 
-![Diagrama de Classe](./imagens/diagramaDeClasses.jpg.png)
+![Diagrama de Classe](./imagens/diagramaDeClasses.jpg)
 
 ### 3.2 Breve explicação dos Relacionamentos e Constraints:
 
